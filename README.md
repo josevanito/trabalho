@@ -19,8 +19,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 **Links:**
 * [Blog](http://sigmoidal.ai)
 * [LinkedIn](https://www.linkedin.com/in/vanito-souza-a7764479/)
-* [Medium](https://www.medium.com)
- # OBS: EM MONTAGEM !!!
+* [Medium](https://https://medium.com/@vanito30)
 
 ## Projetos:
 Veja os tutoriais publicados do Sigmoidal:
