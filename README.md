@@ -7,12 +7,8 @@ Template para portfólio de Data Science
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
-# jose vanito
-<sub>*lider de manutenção  </sub>
-
-MONTAGEM DE PANEIS DO MODULO DA PLATAFORMA MV16 DA PETROBRAS.LIGAÇÃO DE PANEIS DO NAVIO PLATAFORMA ILHA BELLA NO ESTALALEIRO BRASA, INSTALAÇÃO E LANÇAMENTO DE CABOS NO ESTALEIRO BRASFEL BRASFELL
-**Links:**
-* [Blog](http://sigmoidal.ai)
+# jose vanito                                                                                                                                                                                                                                                                                               
+<sub>ESTUDANTE DE ENGENHri e  e data sciencie
 * [LinkedIn](https://ww.linkedin.com/in/vanito-souza-a7764479/)
 * [Medium](https://https://medium.com/@vanito30)
 
