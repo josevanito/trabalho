@@ -8,7 +8,7 @@ Template para portfólio de Data Science
 </p>
 
 # jose vanito                                                                                                                                                                                                                                                                                               
-<sub>ESTUDANTE DE ENGENHri e  e data sciencie
+<sub>ESTUDANTE DE ENGENHri e /dat sciencie
 * [LinkedIn](https://ww.linkedin.com/in/vanito-souza-a7764479/)
 * [Medium](https://https://medium.com/@vanito30)
 
