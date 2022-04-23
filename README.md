@@ -1,14 +1,14 @@
 # trabalho
 meu primeiro portiforlio
 Template para portfólio de Data Science
-[![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
+[![author](https://img.shields.io/badge/author-josevanito-red.svg)](https://www.linkedin.com/in/josevanito) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
 # jose vanito                                                                                                                                                                                                                                                                                               
-<sub>ESTUDANTE DE ENGENHri e /dat sciencie
+<sub>ESTUDANTE DE ENGENHARIA ELETRICA /DATA SCIENCE
 * [LinkedIn](https://ww.linkedin.com/in/vanito-souza-a7764479/)
 * [Medium](https://https://medium.com/@vanito30)
 
